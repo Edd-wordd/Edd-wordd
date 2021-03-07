@@ -1,10 +1,15 @@
-# Edd-wordd
-![Header](https://user-images.githubusercontent.com/37232882/110234972-3d3c4200-7ee2-11eb-8646-b73d00f148ef.png)
+## Hello! I'm Edd-wordd a developer from Las Vegas!
 
+![Header](https://user-images.githubusercontent.com/37232882/110234972-3d3c4200-7ee2-11eb-8646-b73d00f148ef.png)
 
 
 ## Experience & Education
 
+### IONnovate 
+#### Front-End Developer Intern
+Agile softwqare development
+Wrote Unit testing for custom React Components as well as implemented CI/CD to projects
+Designed front end mock-ups using figma 
 
 ### PunchCode Tech Impact
 Built two FullStack applications using JavaScript and multiple frameworks, libraries.
@@ -15,15 +20,15 @@ Git, Version Control and github were used to maintain projects
 VS Code, Postman, REDUX and React chrome extensions used as part of work environment.
 
 ### JavaScript Developer
-Collaborated with others to apply new features for a fashion design company for a mobile design (Lean2Be).
-Built websites UI using Bootstrap, Redux, React, SASS.(Lean2Be)
+Collaborated with others to apply new features for a fashion design company for a mobile design.
+Built websites UI using Bootstrap, Redux, React, SASS.
 Worked closely with team remotely on REST API designs, wrote Queries.
 Contributed improvements to the software development process.
 
 ### JavaScript Functional Library
 Responsive Single Page application
 Built over 25 functions to use on future projects
-BootStrap/HTML/CSS/JSX/JQuery
+BootStrap/HTML/CSS//JQuery
 
 ### White Bear FullStack Application
 React JS, REDUX, Bootstrap, SASS, applied to UI
