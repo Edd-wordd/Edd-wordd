@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> &nbsp;   &nbsp;   &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>&nbsp;   &nbsp;   &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/>&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
-</div> 
+</div>&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 
 
  🔭 I’m currently working on [Mona Tech](https://github.com/Edd-wordd/monaTech)
@@ -59,7 +59,7 @@ assignments(React.js)<br/>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/edward-plasencio-2bba891b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edward-plasencio-2bba891b2/" height="30" width="40" /></a>
 </p>&nbsp;   &nbsp;   &nbsp; 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edd-wordd&show_icons=true&locale=en&layout=compact" alt="edd-wordd" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&locale=en" alt="edd-wordd" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edd-wordd&" alt="edd-wordd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edd-wordd&show_icons=true&locale=en&layout=compact" alt="edd-wordd" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&locale=en" alt="edd-wordd" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edd-wordd&" alt="edd-wordd" /></p>
 </div>
