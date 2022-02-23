@@ -2,6 +2,8 @@
 
 ![Header](https://user-images.githubusercontent.com/37232882/110234972-3d3c4200-7ee2-11eb-8646-b73d00f148ef.png)
 
+## Languages and Tools:
+![icons](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) 
 
 ## Experience & Education
 
