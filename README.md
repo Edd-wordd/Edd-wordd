@@ -14,10 +14,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/>&nbsp;   &nbsp;   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30">&nbsp;   &nbsp;   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>&nbsp;   &nbsp;     
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30" height="30">&nbsp;   &nbsp;   &nbsp;  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>&nbsp;   &nbsp;   &nbsp;  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>&nbsp;   &nbsp;   &nbsp;  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" height="30" width="30"/>&nbsp;   &nbsp;   &nbsp;  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30" height="30">&nbsp;   &nbsp;   
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>&nbsp;   &nbsp;   
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>&nbsp;   &nbsp;   
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" height="30" width="30"/>&nbsp;   &nbsp;   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>&nbsp;   &nbsp;   &nbsp;  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>&nbsp;   &nbsp;   &nbsp;  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>&nbsp;   &nbsp;   &nbsp; 
