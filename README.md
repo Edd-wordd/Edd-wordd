@@ -30,7 +30,7 @@
 
  🔭 I’m currently working on [Mona Tech](https://github.com/Edd-wordd/monaTech)
 
-- 👨‍💻 All of my projects are available at [website](website)
+- 👨‍💻 All of my projects are available at [website](https://edd-wordd.github.io/portfolio/)
 
 - 📫 How to reach me **edd_wordd@icloud.com**
 
