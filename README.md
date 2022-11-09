@@ -36,7 +36,7 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<!-- 
 ### Experience 
 
 #### Code Legion<p>Frontend Developer Developer</p>
@@ -52,7 +52,7 @@ assignments(React.js)<br/>
 • Wrote Unit testing for custom React Components<br/>
 • Implemented CI/CD into projects<br/>
 • Designed front end mock-ups using figma
-  
+   -->
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/modern-edd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="modern-edd" height="30" width="40" /></a>
