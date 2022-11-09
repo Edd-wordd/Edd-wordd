@@ -1,4 +1,4 @@
-## Hello! I'm Edd-wordd a developer from Las Vegas!
+<!-- ## Hello! I'm Edd-wordd a developer from Las Vegas! -->
 
 ![Header](https://user-images.githubusercontent.com/37232882/110234972-3d3c4200-7ee2-11eb-8646-b73d00f148ef.png)
 
