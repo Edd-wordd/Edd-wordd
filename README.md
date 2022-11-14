@@ -57,6 +57,15 @@ assignments(React.js)<br/>
 <div>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2"/></a>
 </div>
+<!-- 
+THIS APPROACH WILL ALLOW YOU TO ALIGN THE CARDS SIDE BY SIDE
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+   -->
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/modern-edd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="modern-edd" height="30" width="40" /></a>
