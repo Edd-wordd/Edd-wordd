@@ -60,8 +60,5 @@ assignments(React.js)<br/>
 </p>&nbsp;   &nbsp;   &nbsp; 
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edd-wordd&show_icons=true&locale=en&layout=compact" alt="edd-wordd" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&locale=en" alt="edd-wordd" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=edd-wordd&" alt="edd-wordd" /></p>
-https://github-readme-streak-stats.herokuapp.com/?user=edd-wordd
-
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2"/></a>
 </div>
