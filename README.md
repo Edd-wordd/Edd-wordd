@@ -53,12 +53,12 @@ assignments(React.js)<br/>
 • Implemented CI/CD into projects<br/>
 • Designed front end mock-ups using figma
    -->
+
+<div>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2"/></a>
+</div>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/modern-edd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="modern-edd" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/edward-plasencio-2bba891b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edward-plasencio-2bba891b2/" height="30" width="40" /></a>
 </p>&nbsp;   &nbsp;   &nbsp; 
-<div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edd-wordd&show_icons=true&locale=en&layout=compact" alt="edd-wordd" /></p>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2"/></a>
-</div>
