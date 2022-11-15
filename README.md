@@ -46,13 +46,14 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd&theme=ocean_dark&hide_border=true)](https://github.com/edd-wordd/github-readme-stats)
-
-[![Eddwordd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd&theme=outrun&hide_border=true)](https://github.com/edd-wordd/github-readme-stats)
 
 
-
-
+<a href="https://github.com/edd-wordd/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd&theme=outrun&hide_border=true" />
+</a>
+<a href="https://github.com/edd-wordd/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd&theme=ocean_dark&hide_border=true" />
+</a>
 
 
 
