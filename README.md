@@ -1,4 +1,3 @@
-<!-- ## Hello! I'm Edd-wordd a developer from Las Vegas! -->
 
 ![Header](https://user-images.githubusercontent.com/37232882/110234972-3d3c4200-7ee2-11eb-8646-b73d00f148ef.png)
 
@@ -43,9 +42,6 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2" />
 </a>
-
-
-
 
 
 <a href="https://github.com/edd-wordd/github-readme-stats">
