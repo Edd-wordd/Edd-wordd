@@ -35,18 +35,17 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=outrun&hide_border=true" />
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=outrun&hide_border=true" />
 </a>
-
-
 <a href="https://github.com/edd-wordd/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd&theme=outrun&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd&theme=outrun&hide_border=true" />
 </a>
+
+
 <a href="https://github.com/edd-wordd/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd&theme=ocean_dark&hide_border=true" />
 </a>
