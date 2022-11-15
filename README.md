@@ -45,7 +45,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd)](https://github.com/edd-wordd/github-readme-stats)
 
-[![Eddwordd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EDDWORDD)](https://github.com/edd-wordd/github-readme-stats)
+[![Eddwordd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd)](https://github.com/edd-wordd/github-readme-stats)
 
 
 <!-- 
