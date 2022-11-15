@@ -42,7 +42,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=outrun&hide_border=true" />
 </a>
 <a href="https://github.com/edd-wordd/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd&theme=outrun&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd&theme=outrun&hide_border=true&range=last_7_days" />
 </a>
 
 
