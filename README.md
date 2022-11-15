@@ -36,27 +36,16 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<!-- 
-### Experience 
 
-#### Code Legion<p>Frontend Developer Developer</p>
-
-• Developed curriculum for a 4 month front-end developer course<br/>
-• Applied VueJS and ReactJS for weekly student projects<br/>
-• Wrote tests to bench mark and moderate student comprehension <br/>
-• Built a dashboard to allow students to get curriculum and
-assignments(React.js)<br/>
-
-#### IONnovate <p>Frontend Developer Intern</p>
-• Agile software development<br/>
-• Wrote Unit testing for custom React Components<br/>
-• Implemented CI/CD into projects<br/>
-• Designed front end mock-ups using figma
-   -->
 
 <div>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2"/></a>
 </div>
+
+<div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=outrun"/></a>
+</div>
+
 <!-- 
 THIS APPROACH WILL ALLOW YOU TO ALIGN THE CARDS SIDE BY SIDE
 <a href="https://github.com/anuraghazra/github-readme-stats">
