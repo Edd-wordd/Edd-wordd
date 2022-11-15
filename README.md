@@ -38,25 +38,24 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2"/></a>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=outrun"/></a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd)](https://github.com/edd-wordd/github-readme-stats)
-
-[![Eddwordd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd)](https://github.com/edd-wordd/github-readme-stats)
-
-
-<!-- 
-THIS APPROACH WILL ALLOW YOU TO ALIGN THE CARDS SIDE BY SIDE
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=outrun&hide_border=true" />
 </a>
-   -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd&theme=ocean_dark&hide_border=true)](https://github.com/edd-wordd/github-readme-stats)
+
+[![Eddwordd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd&theme=outrun&hide_border=true)](https://github.com/edd-wordd/github-readme-stats)
+
+
+
+
+
+
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/modern-edd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="modern-edd" height="30" width="40" /></a>
