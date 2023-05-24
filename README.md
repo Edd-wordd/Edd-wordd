@@ -27,7 +27,7 @@
 </div>&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 
 
- 🔭 I’m currently working on [Mona Tech](https://github.com/Edd-wordd/monaTech)
+ 🔭 I’m currently working on [Mona Tech](https://www.mona-tech.net)
 
 - 👨‍💻 All of my projects are available at [website](https://www.eddwordd.com)
 
