@@ -1,57 +1,71 @@
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=edd-wordd&label=Profile%20views&color=0e75b6&style=flat" alt="edd-wordd" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edd-wordd&style=flat-square&color=blue" alt="profile views" />
+  <a href="https://www.mona-tech.net"><img src="https://img.shields.io/badge/Currently%20Working%20on-Mona%20Tech-_.svg?style=flat-square&logo=appveyor&logoColor=white&color=important"></a>
+  <a href="https://www.eddwordd.com"><img src="https://img.shields.io/badge/Portfolio-eddwordd.com-_.svg?style=flat-square&logo=firefox-browser&logoColor=white&color=success"></a>
+</p>
+
+<h3 align="center">🚀 "edd-wordd" - Code Magician and Digital Craftsman 🚀</h3>
+<p align="center">
+Crafting digital experiences with a sprinkle of magic and a dash of code. Let's conjure up something amazing together!
+</p>
 
 
-#### Languages and Tools:
-<div>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" height="30" width="30"/>&nbsp;   &nbsp;   
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>&nbsp;   &nbsp;   
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jetbrains.svg" height="30" width="30"/>&nbsp;   &nbsp;   
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="35" height="35">&nbsp;   &nbsp;   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/>&nbsp;   &nbsp;   
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30">&nbsp;   &nbsp;   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>&nbsp;   &nbsp;     
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="30" height="30">&nbsp;   &nbsp;   
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>&nbsp;   &nbsp;   
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>&nbsp;   &nbsp;   
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" height="30" width="30"/>&nbsp;   &nbsp;   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>&nbsp;   &nbsp;   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>&nbsp;   &nbsp;   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>&nbsp;   &nbsp;   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>&nbsp;   &nbsp;     
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> &nbsp;   &nbsp;   
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>&nbsp;   &nbsp;   
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/>&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
-</div>&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   
+---
 
+### 🛠 Languages and Tools:
 
- 🔭 I’m currently working on [Mona Tech](https://www.mona-tech.net)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />&nbsp;
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;
+  <img src="https://img.shields.io/badge/IDE-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />&nbsp;
+  <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/Style-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />&nbsp;
+  <img src="https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/Tool-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/State-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&nbsp;
+  <img src="https://img.shields.io/badge/Design-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />&nbsp;
+  <img src="https://img.shields.io/badge/Platform-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />&nbsp;
+  <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />&nbsp;
+</p>
 
-- 👨‍💻 All of my projects are available at [website](https://www.eddwordd.com)
+---
 
-- 📫 How to reach me **edd_wordd@icloud.com**
+### 🔭 Current Projects:
 
+- I’m currently working on enhancing [Mona Tech](https://www.mona-tech.net), a platform designed to streamline tech solutions.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://git.io/streak-stats">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=edd-wordd&theme=nightowl&hide_border=true&border_radius=2" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=outrun&hide_border=true" />
-</a>
-<a href="https://github.com/edd-wordd/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=eddwordd&theme=outrun&hide_border=true&range=last_7_days" />
-</a>
+### 👨‍💻 Portfolio:
 
+- Discover my projects and more about me at my [website](https://www.eddwordd.com).
 
-<a href="https://github.com/edd-wordd/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd&theme=ocean_dark&hide_border=true" />
-</a>
+### 📫 How to Reach Me:
 
+- Feel free to email me at **edd_wordd@icloud.com** for collaborations or inquiries.
 
+---
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/modern-edd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="modern-edd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/edward-plasencio-2bba891b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edward-plasencio-2bba891b2/" height="30" width="40" /></a>
-</p>&nbsp;   &nbsp;   &nbsp; 
+### 📈 GitHub Stats:
+
+<p align="center">
+  <a href="https://github.com/edd-wordd">
+    <img src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true" alt="edd-wordd's GitHub Stats" />
+  </a>
+  <a href="https://github.com/edd-wordd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edd-wordd&theme=dark&background=0d1117&hide_border=true" alt="Streak Stats" />
+  </a>
+  <a href="https://github.com/edd-wordd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd&layout=compact&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with
