@@ -1,5 +1,4 @@
 
-![Header](https://user-images.githubusercontent.com/37232882/110234972-3d3c4200-7ee2-11eb-8646-b73d00f148ef.png)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=edd-wordd&label=Profile%20views&color=0e75b6&style=flat" alt="edd-wordd" /> </p>
 
