@@ -1,3 +1,7 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/edd-wordd/count.svg" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edd-wordd&style=flat-square&color=blue" alt="profile views" />
