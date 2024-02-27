@@ -36,21 +36,21 @@ Crafting digital experiences with a sprinkle of magic and a dash of code. Let's 
   <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />&nbsp;
 </p>
 
----
-
-### 🔭 Current Projects:
-
-- I’m currently working on enhancing [Mona Tech](https://www.mona-tech.net), a platform designed to streamline tech solutions.
-
-### 👨‍💻 Portfolio:
-
-- Discover my projects and more about me at my [website](https://www.eddwordd.com).
-
-### 📫 How to Reach Me:
-
-- Feel free to email me at **edd_wordd@icloud.com** for collaborations or inquiries.
 
 ---
+
+### 🌍 About Me:
+
+Digital nomad with a passion for technology and an insatiable appetite for adventure. As a self-taught developer, I've journeyed through the digital landscape, constantly seeking new challenges and opportunities to grow. My path has been shaped by countless experiences, leading me to become a fervent believer in lifelong learning and the power of networking.
+
+Traveling the world has not only expanded my horizons but has also inspired me to create innovative solutions that bridge gaps and connect people. My current venture, [Mona Tech](https://www.mona-tech.net), aims to simplify tech for businesses, making digital tools more accessible and efficient.
+
+Curious about my work? Check out my [portfolio](https://www.eddwordd.com) for a glimpse into my projects and the adventures they've taken me on.
+
+Looking to collaborate or just share ideas over a virtual cup of coffee? I'm all ears. Reach out to me at **edd_wordd@icloud.com**. Let's make something awesome together.
+
+---
+
 
 ### 📈 GitHub Stats:
 
