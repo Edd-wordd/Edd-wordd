@@ -1,13 +1,18 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/edd-wordd/count.svg" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edd-wordd&style=flat-square&color=grey" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edd-wordd&style=flat-square&color=blue" alt="profile views" />
-  <a href="https://www.mona-tech.net"><img src="https://img.shields.io/badge/Currently%20Working%20on-Mona%20Tech-_.svg?style=flat-square&logo=appveyor&logoColor=white&color=important"></a>
-  <a href="https://www.eddwordd.com"><img src="https://img.shields.io/badge/Portfolio-eddwordd.com-_.svg?style=flat-square&logo=firefox-browser&logoColor=white&color=success"></a>
+  <a href="https://www.eddwordd.com">
+    <img src="https://img.shields.io/badge/Portfolio-eddwordd.com-black?style=flat-square">
+  </a>
+  <a href="mailto:edd_wordd@icloud.com">
+    <img src="https://img.shields.io/badge/Contact-Email-black?style=flat-square">
+  </a>
 </p>
+<a href="https://github.com/edd-wordd/parallax">
+  <img src="https://img.shields.io/badge/Project-Parallax-black?style=flat-square">
+</a>
 
 <h3 align="center">Edward Plasencio — Software Engineer</h3>
 
