@@ -9,11 +9,12 @@
   <a href="https://www.eddwordd.com"><img src="https://img.shields.io/badge/Portfolio-eddwordd.com-_.svg?style=flat-square&logo=firefox-browser&logoColor=white&color=success"></a>
 </p>
 
-<h3 align="center">🚀 "edd-wordd" - Code Magician and Digital Craftsman 🚀</h3>
-<p align="center">
-Crafting digital experiences with a sprinkle of magic and a dash of code. Let's conjure up something amazing together!
-</p>
+<h3 align="center">Edward Plasencio — Software Engineer</h3>
 
+<p align="center">
+Building AI-assisted tools, astrophotography software, and real-world systems.
+Currently developing Parallax, an astrophotography operations platform.
+</p>
 
 ---
 ### Technologies & Tools
@@ -66,5 +67,6 @@ If you're working on something interesting or think there’s an opportunity to 
 </p>
 
 ---
+
 
 ### 🌐 Connect with
