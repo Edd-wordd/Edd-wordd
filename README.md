@@ -10,36 +10,31 @@
     <img src="https://img.shields.io/badge/Contact-Email-black?style=flat-square">
   </a>
   <a href="https://github.com/edd-wordd/parallax">
-  <img src="https://img.shields.io/badge/Project-Parallax-black?style=flat-square">
-</a>
+    <img src="https://img.shields.io/badge/Project-Parallax-black?style=flat-square">
+  </a>
 </p>
 
-
-<h3 align="center">Edward Plasencio — Software Engineer</h3>
+<h3 align="center">Edward Plasencio — Software Engineer & Systems Builder</h3>
 
 <p align="center">
-Building AI-assisted tools, astrophotography software, and real-world systems.
-Currently developing Parallax, an astrophotography operations platform.
+Building AI-assisted tools, astrophotography software, and real-world systems.<br>
+Creator of <strong>Parallax</strong>, an astrophotography operations platform.
 </p>
 
 ---
-### Technologies & Tools
 
-#### Core Development
-TypeScript • JavaScript • Node.js • Git
+### Featured Project
 
-#### Frontend & Interface
-Next.js • React • TailwindCSS • Shadcn UI • Framer Motion
+**Parallax**
 
-#### Backend & Infrastructure
-Supabase • PostgreSQL • Clerk • Sentry • PostHog • Docker
+Parallax is an astrophotography operations platform designed to help telescope operators plan imaging missions, simulate sky conditions, manage equipment setup, and log session intelligence during imaging sessions.
 
-#### Systems & Field Integration
-Raspberry Pi • Astroberry • NINA • Telescope control systems
+The platform focuses on improving the real-world astrophotography workflow by combining mission planning, environmental awareness, equipment setup tracking, and session logging into a single interface.
 
-#### Design & Workflow
-Figma • VS Code • JetBrains • Photoshop
+Repository:  
+https://github.com/edd-wordd/parallax
 
+---
 
 ### About Me
 
@@ -47,18 +42,21 @@ I'm a software engineer focused on building systems that connect software, data,
 
 I’m currently building **Parallax**, an astrophotography operations platform designed to help telescope operators plan imaging missions, simulate sky conditions, manage equipment setup, and log session intelligence for continuous improvement in the field.
 
-My typical stack includes **Next.js, TypeScript, Supabase, Electron, Postgres, and Tailwind**, often combined with Raspberry Pi systems, sensors, and automation tools to create software that extends beyond the screen.
+My work often combines **Next.js, TypeScript, Supabase, Electron, and Postgres** with Raspberry Pi systems, sensors, and automation tools to create software that extends beyond the screen and into real-world workflows.
 
-Outside of software engineering, I enjoy building experimental systems and launching small product ideas—from astrophotography rigs and field computing setups to **Casa Plasencio**, a small-batch carne seca brand.
+Outside of software engineering, I enjoy building experimental systems and launching small product ideas — from astrophotography rigs and field computing setups to **Casa Plasencio**, a small-batch carne seca brand.
 
-I’m particularly interested in projects that sit at the intersection of **software, hardware, and real-world workflows**.
+I’m particularly interested in projects that sit at the intersection of **software, hardware, and real-world systems**.
 
-You can explore more of my work at **https://www.eddwordd.com**.
+More about my work:  
+https://www.eddwordd.com
 
-If you're working on something interesting or think there’s an opportunity to collaborate, feel free to reach out at **edd_wordd@icloud.com**.
+If you're working on something interesting or think there’s an opportunity to collaborate, feel free to reach out:  
+**edd_wordd@icloud.com**
 
+---
 
-### GitHub Stats
+### Development Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9" />
