@@ -41,19 +41,21 @@ Crafting digital experiences with a sprinkle of magic and a dash of code. Let's 
 </p>
 
 
----
+### About Me
 
-### 🌍 About Me:
+I'm a software engineer focused on building systems that connect software, data, and the physical world. My work spans full-stack development, AI-assisted tools, and hardware-integrated applications.
 
-Digital nomad with a passion for technology and an insatiable appetite for adventure. As a self-taught developer, I've journeyed through the digital landscape, constantly seeking new challenges and opportunities to grow. My path has been shaped by countless experiences, leading me to become a fervent believer in lifelong learning and the power of networking.
+I’m currently building **Parallax**, an astrophotography operations platform designed to help telescope operators plan imaging missions, simulate sky conditions, manage equipment setup, and log session intelligence for continuous improvement in the field.
 
-Traveling the world has not only expanded my horizons but has also inspired me to create innovative solutions that bridge gaps and connect people. My current venture, [Mona Tech](https://www.mona-tech.net), aims to simplify tech for businesses, making digital tools more accessible and efficient.
+My typical stack includes **Next.js, TypeScript, Supabase, Electron, Postgres, and Tailwind**, often combined with Raspberry Pi systems, sensors, and automation tools to create software that extends beyond the screen.
 
-Curious about my work? Check out my [portfolio](https://www.eddwordd.com) for a glimpse into my projects and the adventures they've taken me on.
+Outside of software engineering, I enjoy building experimental systems and launching small product ideas—from astrophotography rigs and field computing setups to **Casa Plasencio**, a small-batch carne seca brand.
 
-Looking to collaborate or just share ideas over a virtual cup of coffee? I'm all ears. Reach out to me at **edd_wordd@icloud.com**. Let's make something awesome together.
+I’m particularly interested in projects that sit at the intersection of **software, hardware, and real-world workflows**.
 
----
+You can explore more of my work at **https://www.eddwordd.com**.
+
+If you're working on something interesting or think there’s an opportunity to collaborate, feel free to reach out at **edd_wordd@icloud.com**.
 
 
 ### 📈 GitHub Stats:
