@@ -58,21 +58,12 @@ You can explore more of my work at **https://www.eddwordd.com**.
 If you're working on something interesting or think there’s an opportunity to collaborate, feel free to reach out at **edd_wordd@icloud.com**.
 
 
-### 📈 GitHub Stats:
+### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/edd-wordd">
-    <img src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true" alt="edd-wordd's GitHub Stats" />
-  </a>
-  <a href="https://github.com/edd-wordd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edd-wordd&theme=dark&background=0d1117&hide_border=true" alt="Streak Stats" />
-  </a>
-  <a href="https://github.com/edd-wordd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd&layout=compact&theme=vision-friendly-dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=edd-wordd&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edd-wordd&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9" />
 </p>
 
 ---
-
-
-### 🌐 Connect with
