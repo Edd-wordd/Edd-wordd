@@ -9,10 +9,11 @@
   <a href="mailto:edd_wordd@icloud.com">
     <img src="https://img.shields.io/badge/Contact-Email-black?style=flat-square">
   </a>
-</p>
-<a href="https://github.com/edd-wordd/parallax">
+  <a href="https://github.com/edd-wordd/parallax">
   <img src="https://img.shields.io/badge/Project-Parallax-black?style=flat-square">
 </a>
+</p>
+
 
 <h3 align="center">Edward Plasencio — Software Engineer</h3>
 
