@@ -16,29 +16,22 @@ Crafting digital experiences with a sprinkle of magic and a dash of code. Let's 
 
 
 ---
+### Technologies & Tools
 
-### 🛠 Languages and Tools:
+#### Core Development
+TypeScript • JavaScript • Node.js • Git
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />&nbsp;
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;
-  <img src="https://img.shields.io/badge/IDE-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />&nbsp;
-  <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/Style-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />&nbsp;
-  <img src="https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/Tool-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
-  <img src="https://img.shields.io/badge/State-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&nbsp;
-  <img src="https://img.shields.io/badge/Design-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />&nbsp;
-  <img src="https://img.shields.io/badge/Platform-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />&nbsp;
-  <img src="https://img.shields.io/badge/Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />&nbsp;
-</p>
+#### Frontend & Interface
+Next.js • React • TailwindCSS • Shadcn UI • Framer Motion
+
+#### Backend & Infrastructure
+Supabase • PostgreSQL • Clerk • Sentry • PostHog • Docker
+
+#### Systems & Field Integration
+Raspberry Pi • Astroberry • NINA • Telescope control systems
+
+#### Design & Workflow
+Figma • VS Code • JetBrains • Photoshop
 
 
 ### About Me
